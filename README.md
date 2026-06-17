@@ -63,3 +63,15 @@ Model, veri havuzunun %20'lik izole test kümesi üzerinde test edilmiş ve şu 
 ## 11. Bilinen Eksiklikler (Sistem Sınırları)
 1. Taban Puan Sınırı (Floor Effect): Tüm yetenek skorları ve finansal değerler 0 girildiğinde, model eksi değerlere düşmemekte; algoritmik bir iç koruma çizgisi çekerek taban puanı 42.0 Overall seviyesinde sabitlemektedir.
 2. Finansal Baskınlık Anomalisi: Oyuncunun teknik verileri ortalama seviyede tutulup, bonservis değeri uç seviyede yükseltildiğinde (Örn: 200M+ EUR), modelin teknik özellikleri göz ardı ederek paraya dayalı aşırı yüksek tahmin ürettiği saptanmıştır.
+
+## 12. Tanım Videosu Linki 
+youtube : [tanıtım videosu](https://youtu.be/WCpDkXs4Zp8) 
+
+## 13. Web Sitesi Linki
+streamlit : [web linki](https://scoutintel-imran-devran.streamlit.app/)
+
+## 14. GitHub linki
+[final projesi](https://github.com/imrandevran1907-coder/final-projesi-imran-devran)
+
+## 15. MIT Lisansı 
+[MIT Lisansı](./LICENSE)
